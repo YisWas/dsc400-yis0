@@ -15,6 +15,7 @@ dependencies = [
     "plotly[express]>=7.1.0",
     "python-dotenv>=1.2.3",
     "seaborn>=0.13.2",
+    "tinydb>=4.9.0",
 ]
 
 [project.scripts]
